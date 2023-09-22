@@ -1,0 +1,8 @@
+
+---------> The Installations : 
+
+----> Microsoft Sql Server Manager .
+
+----> Activate The Sql Browser in sql server manager . 
+
+----> Built a analysis server .
