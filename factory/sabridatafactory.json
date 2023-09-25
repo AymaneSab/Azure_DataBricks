@@ -1,0 +1,10 @@
+{
+	"name": "sabridatafactory",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "AzureDataLakeStorageHistoricalData",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
+	"location": "eastus"
+}
