@@ -1,0 +1,10 @@
+
+---------> The Installations : 
+
+----> https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-namespace
+
+----> https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark
+
+----> https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2-how-to?tabs=azure-portal
+
+----> https://learn.microsoft.com/en-us/azure/storage/blobs/
